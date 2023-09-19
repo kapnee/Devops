@@ -1,0 +1,32 @@
+What is devops?
+Why devops?
+How to introduce yourself?
+What are your day to day activities?
+
+Devops is a culture that improves the organizations ability to deliver the applications.
+
+Example.com == 10 days to deliver new version of application.(v1-->v2)
+Deliver in 1-2 hours/ 1-2 days
+Ability to deliver you application faster through automation along with quality and performing monitoring and continous testing.
+Devops is a process of improving the application delivery through automation,code quality and continous 
+monitoring/observability and continous testing.
+
+No Manual intervention
+
+Cloud Native
+Serverless
+Shiftless
+=================================================================================================
+Why Devops?
+Developer--> writes code --> Customer
+Code --> Central Location --> system Admin --> Deploy app on server --> Tester would Test -->
+Build Release Engineer -->Pre/Production Level
+
+System Administrator-- Responsible for creating the infrastruture of server.(VM,Xen,Openstack)
+Build and Release Engineer -- Responsible for deploying the application to the server. (on App Server).
+Server Admin --Responsible for creating App Server.
+This complete operation /process takes 10 days.
+Improving Effeciency of Organization.
+
+==================================================================================================
+working as Devops engineer for last 4-5 years. Before I was working as a full stack developer.
